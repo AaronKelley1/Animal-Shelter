@@ -1,0 +1,39 @@
+.charlie {
+  border: 5px dotted red;
+  margin-left: 4px;
+  padding-top: 20px;
+  padding-bottom: 20px;
+  text-align: center;
+}
+
+.sweetie {
+  border: 5px dotted blue;
+  margin-left: 4px;
+  padding-top: 20px;
+  padding-bottom: 20px;
+  text-align: center;
+}
+
+.lucy {
+  border: 5px dotted green;
+  margin-left: 4px;
+  padding-top: 20px;
+  padding-bottom: 20px;
+  text-align: center;
+}
+
+.andrew {
+  border: 5px dotted orange;
+  margin-left: 4px;
+  padding-top: 20px;
+  padding-bottom: 20px;
+  text-align: center;
+}
+
+.goldie {
+  border: 5px dotted yellow;
+  margin-left: 4px;
+  padding-top: 20px;
+  padding-bottom: 20px;
+  text-align: center;
+}
