@@ -11,6 +11,11 @@
   text-align: center;
 }
 
+li {
+  font-style: italic;
+  text-align: left;
+}
+
 .sweetie {
   border: 5px dotted blue;
   margin-left: 4px;
